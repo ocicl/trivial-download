@@ -1,0 +1,9 @@
+* trivial-download
+
+Download files from Common Lisp through Drakma.
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/eudoxia0/trivial-download.git |
+| commit  | 95e5471                                              |
+| systems | trivial-download                                     |
+|---------+------------------------------------------------------|
